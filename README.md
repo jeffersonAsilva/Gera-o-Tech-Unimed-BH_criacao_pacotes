@@ -1,7 +1,7 @@
 # simple_linear_regression
 
 Description.
-The package simple_linear_regression is used to:
+The package regression_results is used to:
 
     Model Analysis :
     	- Plot fit model
@@ -9,10 +9,10 @@ The package simple_linear_regression is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install simple_linear_regression
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install regression_results
 
 ```bash
-pip install simple_linear_regression
+pip install regression_results
 ```
 
 ## Usage

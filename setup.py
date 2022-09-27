@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="simple_linear_regression",
+    name="regression_results",
     version="0.0.1",
     author="jefferson",
 
