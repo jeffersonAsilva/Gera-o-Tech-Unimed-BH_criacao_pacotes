@@ -23,7 +23,7 @@ pip install simple_linear_regression
 mp.plot_regression(data['GPA'],data['SAT']);
 ```
 
-<img width="auto" src="">
+<img width="auto" src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_criacao_pacotes/blob/main/linear.png">
 
 ```python
  import plot_regression.results_table as tb
@@ -31,7 +31,7 @@ mp.plot_regression(data['GPA'],data['SAT']);
 tb.result_table(data['GPA'],data['SAT'])
 ```
 
-<img width="auto" src="">
+<img width="auto" src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_criacao_pacotes/blob/main/table3.png">
 
 ## Author
 
